@@ -70,6 +70,8 @@ The objective of the analysis is to identify operational inefficiencies, transpo
 ## 📷 Dashboard Screenshots
 <img width="1160" height="732" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/147eeaa4-372c-48cd-8fa1-58233c7c5677" />
 <img width="1173" height="665" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/1e623029-71c7-41fe-8809-5792bf6a423d" />
+<img width="1164" height="743" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/fed13a38-6dfc-4f11-b4f0-39a55a8f436b" />
+
 
 
 
